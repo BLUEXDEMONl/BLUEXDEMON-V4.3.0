@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "4915679582752"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = pairingNumber
+global.botNumber = 4915679582752
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -27,14 +27,14 @@ global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
-global.language = "en"
+global.bank = "Devil"
+global.bankname = "Devil"
+global.accnumber = "4915679582752"
+global.language = "DE"
 global.sessionName = "session"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
-global.newsletterJid = "120363304326105871@newsletter"
+global.newsletterJid = "4915679582752@newsletter"
 global.newsletterName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
 global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
@@ -45,7 +45,7 @@ global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
 global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
 global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
-global.fake = botName
+global.fake = Devilsbot
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '🔆'
@@ -90,7 +90,7 @@ global.gcounti = {
 
 
 let d = new Date();
-      let locale = "en";
+      let locale = "DE";
       let gmt = new Date(0).getTime() - new Date("1 January 2024").getTime();
       let week = d.toLocaleDateString(locale, { weekday: "long" });
       const calender = d.toLocaleDateString("en", {
