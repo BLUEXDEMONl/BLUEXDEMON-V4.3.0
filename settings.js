@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "2348062641931"
 
 
 
@@ -15,21 +15,21 @@ global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
 global.egg = "15"
 global.loc = "1"
-global.anticall = false
+global.anticall = true
 global.autoReadChat = false
 global.alwaysonline = true
-global.autoswview = false
-global.public = true
+global.autoswview = true
+global.public = false
 global.autoreact = false
 global.antidelete = false
-global.autotyping = false
-global.autoBio = true
+global.autotyping = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bank = "Moniepoint"
+global.bankname = "ADURAMIGBA"
+global.accnumber = "8062641931"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
@@ -70,7 +70,7 @@ global.setwelcome = "type1"
 global.autoblockcmd = false
 global.autoReport = true
 global.autoLevel = true
-global.autoSticker = true
+global.autoSticker = false
 global.gamewaktu = 60
 global.limitCount = 30
 global.Intervalmsg = 1000
