@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "24160384437"
 
 
 
@@ -19,10 +19,10 @@ global.anticall = false
 global.autoReadChat = false
 global.alwaysonline = true
 global.autoswview = false
-global.public = true
-global.autoreact = false
-global.antidelete = false
-global.autotyping = false
+global.public = false
+global.autoreact = true
+global.antidelete = true
+global.autotyping = true
 global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
@@ -37,7 +37,7 @@ global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.ownerName = "✮⃝𝐓𝐌𝐏✮͢≛🌹𝐒𝐀𝐒𝐔𝐊𝐄✮⃝🕷️"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
@@ -54,7 +54,7 @@ global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12456894.jpg"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "!"
+global.prefa = "."
 global.Console = false
 global.autorespon = false
 global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
