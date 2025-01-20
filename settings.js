@@ -31,10 +31,10 @@ global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐂𝐚𝐬𝐩𝐞𝐫 𝐓𝐞𝐜𝐡"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝐜𝐚𝐬𝐩𝐞𝐫 𝐭𝐞𝐜𝐡"
 global.ownerName = "𝐓𝐫𝐚𝐛𝐲 𝐪𝐫𝐢𝐳"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.syt = 'https://wa.me/254732982940'
+global.sgc = 'https://wa.me/254732982940'
+global.sig = 'https://wa.me/254732982940'
+global.web = 'https://wa.me/254732982940'
 //setbot
 global.botName = "𝐓𝐑𝐀𝐁𝐘-𝐌𝐃" 
 global.wm = "𝐓𝐑𝐀𝐁𝐘-𝐌𝐃"
